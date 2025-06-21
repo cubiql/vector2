@@ -35,5 +35,15 @@
     "peerDependencies": {
         "typescript": "^5"
     },
-    "dependencies": {}
+    "dependencies": {},
+    "keywords": [
+        "vector",
+        "aabb",
+        "collision",
+        "typescript"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cubiql/vector2.git"
+    }
 }
